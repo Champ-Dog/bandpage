@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Raleway&family=Rubik:ital,wght@1,500&display=swap');
+
+
+html { 
+  background: url(./images/background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  font-family: 'Quicksand', sans-serif;
+
+  opacity: 0.8;
+}
+
+nav {
+  text-align: center;
+
+  button:hover {
+  color: blue;
+}
+}
+
+div {
+  border: solid;
+  border-color: grey;
+}
+
+#trouble {
+  background: url(./albumart/trouble.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#beast {
+  background: url(./albumart/beast.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  color: beige;
+}
+
+#easytofind {
+  background: url(./albumart/easytofind.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#violet {
+  background: url(./albumart/highviolet.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#objectivelybest {
+  background: url(./albumart/Boxer.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  color: beige;
+}
+
+#alligator {
+  background: url(./albumart/alligator.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  color: beige;
+}
+
+#sadsongs {
+  background: url(./albumart/sadsongs.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  color: beige;
+}
+
+#national {
+  background: url(./albumart/national.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#note {
+  background: url(./images/lotofsorrow.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  color: beige;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h3,
+h4,
+h5,
+h6{
+  font-family: 'Raleway', sans-serif;
+}
+
+#reviews {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(63, 63, 63);
+
+    border: none;
+}
+
+footer{
+  text-align: center;
+  font-size: 10px;
+}
